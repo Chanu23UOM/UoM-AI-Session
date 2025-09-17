@@ -32,8 +32,7 @@ pip install -r requirements.txt
 
 - Python
 - Jupyter Notebooks
-- Machine Learning libraries (NumPy, Pandas, Scikit-learn)
-- Deep Learning frameworks (TensorFlow, PyTorch)
+
 
 ## Contributing
 
